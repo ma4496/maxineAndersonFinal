@@ -15,7 +15,7 @@ flowerDisplay(x, y){
 	} // end flowerDisplay bracket
 	
 	flowerStem(x, y, xc, yc, yExt){
-		stroke(147, 168, 103); // olive green
+		stroke(106, 125, 64); // deep green
 		strokeWeight(1.5);
 		noFill();
 		this.xLoc = x; // x location
